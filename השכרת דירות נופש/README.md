@@ -22,24 +22,24 @@
 
 טכנולוגיות הפרויקט:
 צד שרת:
-                                                                                                                      Node.js - המערכת מבוססת על Node.js כשרת Backend.
+Node.js - המערכת מבוססת על Node.js כשרת Backend.
 
 ספריות נוספות:
 
-                                                                                                                                           Mongoose: עבודה עם MongoDB.
-                                                                                                                          
-                                                                                                                                    Express: Framework לניהול routing.
-                                                                                                                          
-                                                                                                                                      Body-parser: ניתוח נתונים מהבקשות.
-                                                                                                                          
-                                                                                                                                            dotenv: לניהול משתני סביבה.
-                                                                                                                          
-                                                                                                                                      CORS: ניהול הרשאות גישה בין דומיינים.
-                                                                                                                          
-                                                                                                                          JWT: ניהול אימות משתמשים בעזרת JSON Web Tokens.
+Mongoose: עבודה עם MongoDB.
+
+Express: Framework לניהול routing.
+
+Body-parser: ניתוח נתונים מהבקשות.
+
+dotenv: לניהול משתני סביבה.
+
+CORS: ניהול הרשאות גישה בין דומיינים.
+
+JWT: ניהול אימות משתמשים בעזרת JSON Web Tokens.
 
 בסיס נתונים:
-                                                                                                                        MongoDB Cloud - מערכת ניהול נתונים מבוססת MongoDB.
+MongoDB Cloud - מערכת ניהול נתונים מבוססת MongoDB.
 
 צד לקוח:
 React - פיתוח אפליקציית Frontend עם React.
