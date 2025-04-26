@@ -34,7 +34,7 @@ export const login = (req, res) => {
                     additionalPhone: advertiser.additionalPhone
                 },
 
-                "VY158%GYjnd$,o*hu",
+                process.env.SECRET,
                 {
                     expiresIn: '1y',
                 }
@@ -77,7 +77,7 @@ export const register = (req, res) => {
                             additionalPhone
                         },
 
-                        "VY158%GYjnd$,o*hu",
+                        process.env.SECRET,
                         {
                             expiresIn: '1y',
                         }

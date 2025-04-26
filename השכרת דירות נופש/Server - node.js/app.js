@@ -17,7 +17,7 @@ dotenv.config()
 
 app.use(cors())
 
-mongoose.connect("mongodb+srv://tamarb254:yhO7erJbAS0OuzSI@vocation-apartments.ecnr4.mongodb.net/")
+mongoose.connect(process.env.URI)
     .then(() => {
         console.log('connect to mongoDB');
     })
